@@ -1,4 +1,4 @@
-# episodio4
+# De la intención a la acción: Un plan digital para Puerto Rico - Episodio 4.0
 
 “Si yo estuviera fundando ahora un nuevo partido lo haría construyendo sobre la inexpugnable sencillez moral encarnada en el siguiente concepto: nada que sea injusto debe ser legal; nada injusto que sea legal es respetable; la función de un gran movimiento es emprender la magna obra de leyes y políticas públicas que despojen de legalidad las injusticias y le metan hombro, voluntad, imaginación a construir la sociedad justa que la inmensa mayoría de los puertorriqueños grandemente necesita, instintivamente anhela e incuestionablemente merece.” Luis Muñoz Marín
 
