@@ -1,11 +1,16 @@
-Estado Actual									
+# Tabla de Contenido
+
+## Estado Actual							
+ 
  - Wardley Mapping 								
 
-Estructura y Participación
+## Estructura y Participación
+
  - Rama Ejecutiva - Estructura, organización y presupuesto
  - Rama Legislativa - La Comisión Digital, servidores públicos en formación
  
-Estrategias Principales
+## Estrategias Principales
+
  - Plataformas
  - Agile
  - Procurement
@@ -14,6 +19,7 @@ Estrategias Principales
  - Transparencia
  - Seguridad
  
-Modelo Económico
+## Modelo Económico
+
  - Empoderando al trabajador remoto
  - Educación y empleos
